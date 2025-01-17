@@ -51,7 +51,7 @@ pip install torch numpy opencv-python
 ### **Running the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Helmet-and-Face-Detection-YOLO.git
+   git clone https://github.com/NouraMaklad/Helmet-and-Face-Detection-YOLO.git
    cd Helmet-and-Face-Detection-YOLO
    ```
 
