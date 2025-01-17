@@ -13,7 +13,6 @@ Helmet-and-Face-Detection-YOLO/
 ├── yolo-faces.pt           # Pre-trained YOLOv5 model for face detection
 ├── noisy test images/      # Folder containing noisy test images
 ├── Helmet_and_Face_Detection.ipynb  # Python notebook for object detection
-├── detect_helmets_faces.py # Script version of the notebook
 └── README.md               # Project documentation
 ```
 
